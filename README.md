@@ -18,6 +18,22 @@
 
 <h2>Connect With Me:</h2>
 
+[<img align="left" alt="Linkedin" height="30px" src="https://cdn.simpleicons.org/gmail/526b8e" />][gmail]
+
+[gmail]: mailto:elifberfindeniz@gmail.com
+
+
+[<img align="left" alt="Linkedin" height="30px" src="https://cdn.simpleicons.org/linkedin/526b8e" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/berfindeniz
+
+
+[<img align="left" alt="Instagram" height="30px" src="https://cdn.simpleicons.org/instagram/526b8e" />][instagram]
+
+[instagram]: https://www.instagram.com/berfn.art
+
+
+<!--
 <a href="mailto:elifberfindeniz@gmail.com">
   <img align="left" alt="LinkedIn" width="20px" src="https://simpleicons.now.sh/gmail/495f7e" />
 </a>
@@ -27,13 +43,9 @@
 <a href="https://www.instagram.com/berfn.art/">
   <img align="left" alt="LinkedIn" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-
-
-<!--
-![python](https://img.shields.io/badge/-Python-36465D?logo=python&logoColor=AAA&style=flat-square)
 -->
+
 <!--
-**brfdz/brfdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
